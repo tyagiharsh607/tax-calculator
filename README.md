@@ -28,16 +28,3 @@ The tax calculation works based on the following formula:
 - Error icons should not be visible in the form by default.
 - Clicking on submit should show a modal that would display the final values based on the above calculations.
 
-## How to Use
-
-1. Clone the repository.
-2. Open the `index.html` file in a web browser.
-
-## Contributing
-
-Contributions are welcome! Please feel free to fork the repository and submit pull requests to contribute to this project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
